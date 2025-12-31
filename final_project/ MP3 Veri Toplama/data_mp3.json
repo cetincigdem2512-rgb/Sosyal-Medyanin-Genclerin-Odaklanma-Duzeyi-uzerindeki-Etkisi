@@ -1,0 +1,93 @@
+{
+  "anket_adi": "Gençlerde Sosyal Medya ve Odaklanma",
+  "toplam_katilimci": 53,
+  "sorular": [
+    {
+      "id": 1,
+      "soru": "Bir günde kaç saat sosyal medya kullanıyorsunuz?",
+      "secenekler": [
+        { "cevap": "0-1 saat", "oy": 5, "yuzde": 9.4 },
+        { "cevap": "1-2 saat", "oy": 7, "yuzde": 13.2 },
+        { "cevap": "2-3 saat", "oy": 11, "yuzde": 20.8 },
+        { "cevap": "4+ saat", "oy": 30, "yuzde": 56.6 }
+      ]
+    },
+    {
+      "id": 2,
+      "soru": "Sosyal Medya'yı en çok hangi amaçla kullanıyorsunuz?",
+      "secenekler": [
+        { "cevap": "Eğlence için", "oy": 27, "yuzde": 50.9 },
+        { "cevap": "Profesyonel Ağ Kurmak için", "oy": 2, "yuzde": 3.8 },
+        { "cevap": "Öğrenme ve Kişisel Gelişim için", "oy": 5, "yuzde": 9.4 },
+        { "cevap": "Gündemi Takip etmek için", "oy": 8, "yuzde": 15.1 },
+        { "cevap": "Aile ve Arkadaşlarla Temasta Kalmak için", "oy": 11, "yuzde": 20.8 }
+      ]
+    },
+    {
+      "id": 3,
+      "soru": "En çok hangi sosyal medya uygulamasını kullanıyorsunuz?",
+      "secenekler": [
+        { "cevap": "Youtube", "oy": 8, "yuzde": 15.1 },
+        { "cevap": "TikTok", "oy": 14, "yuzde": 26.4 },
+        { "cevap": "Instagram", "oy": 25, "yuzde": 47.2 },
+        { "cevap": "X (Eski Twitter)", "oy": 4, "yuzde": 7.5 },
+        { "cevap": "LinkedIn", "oy": 2, "yuzde": 3.8 }
+      ]
+    },
+    {
+      "id": 4,
+      "soru": "En çok hangi sosyal medya içeriklerini tüketiyorsunuz?",
+      "secenekler": [
+        { "cevap": "Kısa Form videolar", "oy": 26, "yuzde": 49.0 },
+        { "cevap": "Uzun Form videolar", "oy": 9, "yuzde": 17.0 },
+        { "cevap": "Metin Tabanlı İçerikler", "oy": 3, "yuzde": 6.0 },
+        { "cevap": "Ses Tabanlı İçerikler", "oy": 2, "yuzde": 4.0 },
+        { "cevap": "Görsel Tabanlı İçerikler", "oy": 13, "yuzde": 25.0 }
+      ]
+    },
+    {
+      "id": 5,
+      "soru": "Sosyal Medya kullanımızın hayatınıza olumsuz etki ettiğini düşünüyor musunuz?(1-Kesinlikle hayır 5-Kesinlikle evet)",
+      "secenekler": [
+        { "cevap": "1", "oy": 0, "yuzde": 0 },
+        { "cevap": "2", "oy": 8, "yuzde": 15.1 },
+        { "cevap": "3", "oy": 15, "yuzde": 28.3 },
+        { "cevap": "4", "oy": 13, "yuzde": 24.5 },
+        { "cevap": "5", "oy": 17, "yuzde": 32.1 }
+      ]
+    },
+    {
+      "id": 6,
+      "soru": "Okul veya başka bir alanda odaklanma sorunları yaşadığınızı düşünüyor musunuz? (1-Kesinlikle hayır 5-Kesinlikle evet)",
+      "secenekler": [
+        { "cevap": "1", "oy": 7, "yuzde": 13.2 },
+        { "cevap": "2", "oy": 4, "yuzde": 7.5 },
+        { "cevap": "3", "oy": 7, "yuzde": 13.2 },
+        { "cevap": "4", "oy": 12, "yuzde": 22.6 },
+        { "cevap": "5", "oy": 23, "yuzde": 43.4 }
+      ]
+    },
+    {
+      "id": 7,
+      "soru": "Sosyal medya bağımlısı olduğunuzu düşünüyor musunuz? (1-Kesinlikle hayır 5-Kesinlikle evet)",
+      "secenekler": [
+        { "cevap": "1", "oy": 6, "yuzde": 11.3 },
+        { "cevap": "2", "oy": 6, "yuzde": 11.3 },
+        { "cevap": "3", "oy": 13, "yuzde": 24.5 },
+        { "cevap": "4", "oy": 8, "yuzde": 15.1 },
+        { "cevap": "5", "oy": 20, "yuzde": 37.7 }
+      ]
+    },
+    {
+      "id": 8,
+      "soru": "Sosyal medya kullanımınızı azaltmayı hiç denediniz mi? (1-Kesinlikle hayır 5-Kesinlikle evet)",
+      "secenekler": [
+        { "cevap": "1", "oy": 6, "yuzde": 11.3 },
+        { "cevap": "2", "oy": 9, "yuzde": 17.0 },
+        { "cevap": "3", "oy": 15, "yuzde": 28.3 },
+        { "cevap": "4", "oy": 6, "yuzde": 11.3 },
+        { "cevap": "5", "oy": 17, "yuzde": 32.1 }
+      ]
+    }
+  ]
+}
